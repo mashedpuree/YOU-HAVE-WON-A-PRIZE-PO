@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓','🤍'],  // Heart emojis
+        bears: ['💐', '🌹','🌻','🥀','🫀','🍫']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW do you love me that much????? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "A lil bit more my girlyyy to infinity and beyond!! 🚀💝",              // Shows when they go past 1000%
-        normal: "U can do better than that my bbbb! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW do you love me that much????? 🥺🥰❣️💝",  // Shows when they go past 5000%
+        high: "A lil bit more my girlyyy to infinity and beyond!! 💫💝⭐",              // Shows when they go past 1000%
+        normal: "U can do better than that my bbbb! 💪🫶"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yeyyyy!!! I'm soaperrrrr luckyyyy and gratefulll to have you my girllll!!! 🎉💝💖💝💓",
+        title: "Yeyyyy!!! I'm soaperrrrr luckyyyy and gratefulll to have you my girllll!!! 🎉✨💓🫶",
         message: "Come and claim ur your gift my bbbbb, https://drive.google.com/drive/folders/1YaXKR3pqPU5Ibk195_eJJwh1qfTY_enb?usp=sharing!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "👀💖😍🤗💝💋😘✨💕🤭💌🌸🫶"  // These will bounce around
     },
 
     // Color scheme for the website
